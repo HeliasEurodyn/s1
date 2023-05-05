@@ -1,0 +1,51 @@
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\bin\Release\ClassLibraryNakWebSync.dll.config
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\bin\Release\ClassLibraryNakWebSync.dll
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\bin\Release\ClassLibraryNakWebSync.pdb
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\bin\Release\Newtonsoft.Json.dll
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\bin\Release\RestSharp.dll
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\bin\Release\softone.lib.dll
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\bin\Release\RestSharp.xml
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.Properties.Resources.resources
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.ResultMessageForm.resources
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.WebSyncForm.resources
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.WebSyncFormQtys.resources
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.csproj.GenerateResource.Cache
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.dll
+C:\Users\Helias\documents\visual studio 2015\Projects\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.pdb
+C:\Users\Helias\Desktop\ClassLibraryNakWebSync\bin\Release\ClassLibraryNakWebSync.dll.config
+C:\Users\Helias\Desktop\ClassLibraryNakWebSync\bin\Release\ClassLibraryNakWebSync.dll
+C:\Users\Helias\Desktop\ClassLibraryNakWebSync\bin\Release\ClassLibraryNakWebSync.pdb
+C:\Users\Helias\Desktop\ClassLibraryNakWebSync\bin\Release\softone.lib.dll
+C:\Users\Helias\Desktop\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.Properties.Resources.resources
+C:\Users\Helias\Desktop\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.ResultMessageForm.resources
+C:\Users\Helias\Desktop\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.WebSyncForm.resources
+C:\Users\Helias\Desktop\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.WebSyncFormQtys.resources
+C:\Users\Helias\Desktop\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.csproj.GenerateResource.Cache
+C:\Users\Helias\Desktop\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.dll
+C:\Users\Helias\Desktop\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\bin\Release\ClassLibraryNakWebSync.dll.config
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\bin\Release\ClassLibraryNakWebSync.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\bin\Release\ClassLibraryNakWebSync.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\bin\Release\Newtonsoft.Json.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\bin\Release\RestSharp.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\bin\Release\Softone.Lib.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.Properties.Resources.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.ResultMessageForm.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.WebSyncForm.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.WebSyncFormQtys.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.csproj.GenerateResource.Cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync\obj\Release\ClassLibraryNakWebSync.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\bin\Release\ClassLibraryNakWebSync.dll.config
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\bin\Release\ClassLibraryNakWebSync.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\bin\Release\ClassLibraryNakWebSync.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\bin\Release\RestSharp.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\bin\Release\Softone.Lib.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\obj\Release\ClassLibraryNakWebSync.Properties.Resources.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\obj\Release\ClassLibraryNakWebSync.ResultMessageForm.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\obj\Release\ClassLibraryNakWebSync.WebSyncForm.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\obj\Release\ClassLibraryNakWebSync.WebSyncFormQtys.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\obj\Release\ClassLibraryNakWebSync.csproj.GenerateResource.Cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\obj\Release\ClassLibraryNakWebSync.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ClassLibraryNakWebSync2\obj\Release\ClassLibraryNakWebSync.pdb

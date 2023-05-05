@@ -1,0 +1,66 @@
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\bin\Release\ClassLibrary8.dll
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\bin\Release\ClassLibrary8.pdb
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\bin\Release\CTools.dll
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\bin\Release\Softone.Lib.dll
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.RCLICKFRM.resources
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.RCLICKFRMTRNF.resources
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.UserControl1.resources
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.csproj.GenerateResource.Cache
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.dll
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Release\ClassLibrary8.pdb
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\bin\Release\ClassLibrary8.dll.config
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\bin\Release\ClassLibrary8.dll
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\bin\Release\ClassLibrary8.pdb
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\bin\Release\CTools.dll
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\bin\Release\softone.lib.dll
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.Properties.Resources.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.RCLICKFRM.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.RCLICKFRMTRNF.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.UserControl1.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.dll
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.pdb
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.Properties.Resources.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.RCLICKFRM.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.RCLICKFRMTRNF.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.UserControl1.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\bin\Release\CTools.dll
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\bin\Release\softone.lib.dll
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\bin\Release\NBankExport.dll.config
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\bin\Release\NBankExport.dll
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\bin\Release\NBankExport.pdb
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\NBankExport.dll
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\NBankExport.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\bin\Release\NBankExport.dll.config
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\bin\Release\NBankExport.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\bin\Release\NBankExport.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\bin\Release\CTools.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.Properties.Resources.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.RCLICKFRM.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.RCLICKFRMTRNF.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.UserControl1.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\NBankExport.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\NBankExport.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.csprojResolveAssemblyReference.cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\bin\Release\DIASExport.dll.config
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\bin\Release\DIASExport.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\bin\Release\DIASExport.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\bin\Release\CTools.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.Properties.Resources.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\obj\Release\DIASExport.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\obj\Release\DIASExport.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\obj\Release\ClassLibrary8.SettingsForm.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\bin\Release\DIASExport.dll.config
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\bin\Release\DIASExport.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\bin\Release\DIASExport.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\bin\Release\CTools.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Release\ClassLibrary8.AddToDiasFolder.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Release\ClassLibrary8.Properties.Resources.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Release\ClassLibrary8.SettingsForm.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Release\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Release\DIASExport.dll.licenses
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Release\DIASExport.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Release\DIASExport.pdb

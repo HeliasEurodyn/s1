@@ -1,0 +1,10 @@
+C:\Users\Vitatron\Desktop\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\Vitatron\Desktop\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\Vitatron\Desktop\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\Vitatron\Desktop\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisMaterials\ServiceKazakidisMaterials\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisMaterials\ServiceKazakidisMaterials\WindowsService\obj\Debug\WindowsService.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisMaterials\ServiceKazakidisMaterials\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisMaterials\ServiceKazakidisMaterials\WindowsService\bin\Debug\WindowsService.pdb
+C:\Vitatron\Release\WindowsService.exe
+C:\Vitatron\Release\WindowsService.pdb

@@ -1,0 +1,48 @@
+C:\Users\Vitatron\Desktop\WindowsService\WindowsService\bin\Release\WindowsService.exe
+C:\Users\Vitatron\Desktop\WindowsService\WindowsService\bin\Release\WindowsService.pdb
+C:\Users\Vitatron\Desktop\WindowsService\WindowsService\obj\Release\WindowsService.exe
+C:\Users\Vitatron\Desktop\WindowsService\WindowsService\obj\Release\WindowsService.pdb
+C:\Users\Vitatron\Desktop\WindowsService\WindowsService\bin\Release\ExcelLibrary.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\O1ServiceForPricesSource\O1ToPricesServiceSource\WindowsService\obj\Release\WindowsService.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\O1ServiceForPricesSource\O1ToPricesServiceSource\WindowsService\obj\Release\WindowsService.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\O1ServiceForPricesSource\O1ToPricesServiceSource\WindowsService\bin\Release\WindowsService.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\O1ServiceForPricesSource\O1ToPricesServiceSource\WindowsService\bin\Release\WindowsService.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\O1ServiceForPricesSource\O1ToPricesServiceSource\WindowsService\obj\Release\WindowsService.csprojResolveAssemblyReference.cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisMaterials\ServiceKazakidisMaterials\WindowsService\obj\Release\WindowsService.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisMaterials\ServiceKazakidisMaterials\WindowsService\obj\Release\WindowsService.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisMaterials\ServiceKazakidisMaterials\WindowsService\bin\Release\WindowsService.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisMaterials\ServiceKazakidisMaterials\WindowsService\bin\Release\WindowsService.pdb
+C:\Vitatron\Release\WindowsService.exe
+C:\Vitatron\Release\WindowsService.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisCustomers\ServiceKazakidisCustomers\WindowsService\obj\Release\WindowsService.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisCustomers\ServiceKazakidisCustomers\WindowsService\obj\Release\WindowsService.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisCustomers\ServiceKazakidisCustomers\WindowsService\obj\Release\WindowsService.csprojResolveAssemblyReference.cache
+C:\Vitatron\Release2\WindowsService.exe
+C:\Vitatron\Release2\WindowsService.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisCustomersb2b\ServiceKazakidisCustomers\WindowsService\obj\Release\WindowsService.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceKazakidisCustomersb2b\ServiceKazakidisCustomers\WindowsService\obj\Release\WindowsService.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceUnitech\ServiceKazakidisCustomers\WindowsService\bin\Release\WindowsService.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceUnitech\ServiceKazakidisCustomers\WindowsService\bin\Release\WindowsService.pdb
+C:\Vitatron\Unitech\WindowsService.exe
+C:\Vitatron\Unitech\WindowsService.pdb
+C:\Users\Vitatron\Desktop\qlab temp\WindowsService.exe
+C:\Users\Vitatron\Desktop\qlab temp\WindowsService.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceUnitech\ServiceKazakidisCustomers\WindowsService\obj\Release\WindowsService.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ServiceUnitech\ServiceKazakidisCustomers\WindowsService\obj\Release\WindowsService.pdb
+E:\Desktop\qlab temp\WindowsService.exe.config
+E:\Desktop\qlab temp\WindowsService.exe
+E:\Desktop\qlab temp\WindowsService.pdb
+E:\Visual Studio 2012\Projects\ServiceUpdateQtysNak2\ServiceUpdateQtysNak2\WindowsService\obj\Release\WindowsService.exe
+E:\Visual Studio 2012\Projects\ServiceUpdateQtysNak2\ServiceUpdateQtysNak2\WindowsService\obj\Release\WindowsService.pdb
+E:\Visual Studio 2012\Projects\ServiceUpdateQtysNak2\ServiceUpdateQtysNak2\WindowsService\obj\Release\WindowsService.csprojResolveAssemblyReference.cache
+C:\Desktop\qlab temp\WindowsService.exe.config
+C:\Desktop\qlab temp\WindowsService.exe
+C:\Desktop\qlab temp\WindowsService.pdb
+C:\Users\Helias\Desktop\ServiceUpdateQtysNak3\ServiceUpdateQtysNak2\WindowsService\obj\Release\WindowsService.exe
+C:\Users\Helias\Desktop\ServiceUpdateQtysNak3\ServiceUpdateQtysNak2\WindowsService\obj\Release\WindowsService.pdb
+C:\Users\Helias\Desktop\ServiceUpdateQtysNak3\ServiceUpdateQtysNak2\WindowsService\obj\Release\WindowsService.csprojResolveAssemblyReference.cache
+C:\Users\Vitatron\Documents\Desktop\qlab temp\WindowsService.exe.config
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ServiceUpdateQtysNak3\ServiceUpdateQtysNak2\WindowsService\obj\Release\WindowsService.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\ServiceUpdateQtysNak3\ServiceUpdateQtysNak2\WindowsService\obj\Release\WindowsService.pdb
+C:\Users\Vitatron\Documents\Desktop\qlab temp\WindowsService.exe
+C:\Users\Vitatron\Documents\Desktop\qlab temp\WindowsService.pdb

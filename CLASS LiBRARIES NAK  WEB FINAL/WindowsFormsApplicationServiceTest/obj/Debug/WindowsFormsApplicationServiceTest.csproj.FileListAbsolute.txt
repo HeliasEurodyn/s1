@@ -1,0 +1,14 @@
+c:\users\helias\documents\visual studio 2015\Projects\WindowsFormsApplicationServiceTest\obj\Debug\WindowsFormsApplicationServiceTest.Form1.resources
+c:\users\helias\documents\visual studio 2015\Projects\WindowsFormsApplicationServiceTest\obj\Debug\WindowsFormsApplicationServiceTest.Properties.Resources.resources
+c:\users\helias\documents\visual studio 2015\Projects\WindowsFormsApplicationServiceTest\obj\Debug\WindowsFormsApplicationServiceTest.csproj.GenerateResource.Cache
+c:\users\helias\documents\visual studio 2015\Projects\WindowsFormsApplicationServiceTest\bin\Debug\WindowsFormsApplicationServiceTest.exe
+c:\users\helias\documents\visual studio 2015\Projects\WindowsFormsApplicationServiceTest\bin\Debug\WindowsFormsApplicationServiceTest.pdb
+c:\users\helias\documents\visual studio 2015\Projects\WindowsFormsApplicationServiceTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\helias\documents\visual studio 2015\Projects\WindowsFormsApplicationServiceTest\bin\Debug\RestSharp.dll
+c:\users\helias\documents\visual studio 2015\Projects\WindowsFormsApplicationServiceTest\bin\Debug\RestSharp.xml
+c:\users\helias\documents\visual studio 2015\Projects\WindowsFormsApplicationServiceTest\obj\Debug\WindowsFormsApplicationServiceTest.exe
+c:\users\helias\documents\visual studio 2015\Projects\WindowsFormsApplicationServiceTest\obj\Debug\WindowsFormsApplicationServiceTest.pdb
+C:\Users\Helias\Desktop\WindowsFormsApplicationServiceTest\obj\Debug\WindowsFormsApplicationServiceTest.exe
+C:\Users\Helias\Desktop\WindowsFormsApplicationServiceTest\obj\Debug\WindowsFormsApplicationServiceTest.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\WindowsFormsApplicationServiceTest\obj\Debug\WindowsFormsApplicationServiceTest.exe
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\CLASS LiBRARIES NAK  WEB FINAL\WindowsFormsApplicationServiceTest\obj\Debug\WindowsFormsApplicationServiceTest.pdb

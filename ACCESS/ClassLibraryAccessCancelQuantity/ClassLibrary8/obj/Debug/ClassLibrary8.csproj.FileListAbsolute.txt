@@ -1,0 +1,83 @@
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\bin\Debug\ClassLibrary8.dll
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\bin\Debug\ClassLibrary8.pdb
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\bin\Debug\CTools.dll
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Debug\ClassLibrary8.dll
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Debug\ClassLibrary8.pdb
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Debug\ClassLibrary8.RCLICKFRM.resources
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Debug\ClassLibrary8.UserControl1.resources
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.GenerateResource.Cache
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\bin\Debug\Softone.Lib.dll
+c:\users\vitatron\documents\visual studio 2012\Projects\ClassLibrary8\ClassLibrary8\obj\Debug\ClassLibrary8.RCLICKFRMTRNF.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.RCLICKFRM.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.RCLICKFRMTRNF.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.UserControl1.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.pdb
+C:\Users\Vitatron\Desktop\tmp\ClassLibrary8.dll
+C:\Users\Vitatron\Desktop\tmp\ClassLibrary8.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.Properties.Resources.resources
+C:\Users\Vitatron\Desktop\tmp\ClassLibrary8.dll.config
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.Properties.Resources.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.RCLICKFRM.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.RCLICKFRMTRNF.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.UserControl1.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.dll
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.pdb
+C:\Desktop\tmp\NBankExport.dll.config
+C:\Desktop\tmp\NBankExport.dll
+C:\Desktop\tmp\NBankExport.pdb
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.Properties.Resources.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.RCLICKFRM.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.RCLICKFRMTRNF.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.UserControl1.resources
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\NBankExport.dll
+C:\Users\Helias\Desktop\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\NBankExport.pdb
+C:\Users\Vitatron\s1.demo.server\NBankExport.dll.config
+C:\Users\Vitatron\s1.demo.server\NBankExport.dll
+C:\Users\Vitatron\s1.demo.server\NBankExport.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.Properties.Resources.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.RCLICKFRM.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.RCLICKFRMTRNF.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.UserControl1.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\NBankExport.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\NBankExport.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryErgoplanningNationalBankRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.csprojResolveAssemblyReference.cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.Properties.Resources.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.SettingsForm.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\obj\Debug\DIASExport.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\obj\Debug\DIASExport.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessRightMenu\ClassLibrary8\obj\Debug\ClassLibrary8.csprojResolveAssemblyReference.cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Debug\ClassLibrary8.AddToDiasFolder.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Debug\ClassLibrary8.Properties.Resources.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Debug\ClassLibrary8.SettingsForm.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Debug\DIASExport.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Debug\DIASExport.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Debug\ClassLibrary8.AddQtyCanc.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessDIAS3\ClassLibrary8\obj\Debug\DIASExport.dll.licenses
+C:\s1.demo.server\CalcelQty.dll.config
+C:\s1.demo.server\CalcelQty.dll
+C:\s1.demo.server\CalcelQty.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\ClassLibrary8.AddQtyCanc.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\ClassLibrary8.Properties.Resources.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.GenerateResource.Cache
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\CalcelQty.dll.licenses
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\CalcelQty.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\CalcelQty.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\ClassLibrary8.csprojResolveAssemblyReference.cache
+E:\s1.demo.server\CalcelQty.dll.config
+E:\s1.demo.server\CalcelQty.dll
+E:\s1.demo.server\CalcelQty.pdb
+E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\ClassLibrary8.csprojResolveAssemblyReference.cache
+E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\ClassLibrary8.AddQtyCanc.resources
+E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\ClassLibrary8.Properties.Resources.resources
+E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.GenerateResource.Cache
+E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\CalcelQty.dll.licenses
+E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\ClassLibrary8.csproj.CoreCompileInputs.cache
+E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\CalcelQty.dll
+E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Debug\CalcelQty.pdb

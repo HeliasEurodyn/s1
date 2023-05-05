@@ -1,0 +1,2 @@
+.SaldocQuantities.dll;SaldocQuantitites
+Αναθέσεις Ποσοτήτων

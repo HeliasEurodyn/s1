@@ -1,0 +1,29 @@
+C:\Users\Helias\documents\visual studio 2015\Projects\PiraeusBankImport\bin\Debug\PiraeusBankImport.dll
+C:\Users\Helias\documents\visual studio 2015\Projects\PiraeusBankImport\bin\Debug\PiraeusBankImport.pdb
+C:\Users\Helias\documents\visual studio 2015\Projects\PiraeusBankImport\bin\Debug\Softone.Lib.dll
+C:\Users\Helias\documents\visual studio 2015\Projects\PiraeusBankImport\obj\Debug\PiraeusBankImport.PiraeusBankImportForm.resources
+C:\Users\Helias\documents\visual studio 2015\Projects\PiraeusBankImport\obj\Debug\PiraeusBankImport.Properties.Resources.resources
+C:\Users\Helias\documents\visual studio 2015\Projects\PiraeusBankImport\obj\Debug\PiraeusBankImport.csproj.GenerateResource.Cache
+C:\Users\Helias\documents\visual studio 2015\Projects\PiraeusBankImport\obj\Debug\PiraeusBankImport.dll
+C:\Users\Helias\documents\visual studio 2015\Projects\PiraeusBankImport\obj\Debug\PiraeusBankImport.pdb
+C:\s1\PiraeusBankImport.dll
+C:\s1\PiraeusBankImport.pdb
+C:\Users\Helias\documents\visual studio 2015\Projects\PiraeusBankImport\obj\Debug\PiraeusBankImport.SettingsForm.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessQuantities\obj\Debug\PiraeusBankImport.PiraeusBankImportForm.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessQuantities\obj\Debug\PiraeusBankImport.Properties.Resources.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessQuantities\obj\Debug\PiraeusBankImport.SaldocQuantitites.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessQuantities\obj\Debug\PiraeusBankImport.SettingsForm.resources
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessQuantities\obj\Debug\PiraeusBankImport.csproj.GenerateResource.Cache
+C:\ergoS1\SaldocQuantities.dll.config
+C:\ergoS1\SaldocQuantities.dll
+C:\ergoS1\SaldocQuantities.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessQuantities\obj\Debug\SaldocQuantities.dll
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessQuantities\obj\Debug\SaldocQuantities.pdb
+C:\s1.demo.server\SaldocQuantities.dll.config
+C:\s1.demo.server\SaldocQuantities.dll
+C:\s1.demo.server\SaldocQuantities.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessQuantities\obj\Debug\SaldocQuantities.dll.licenses
+C:\ACCESS226\SaldocQuantities.dll.config
+C:\ACCESS226\SaldocQuantities.dll
+C:\ACCESS226\SaldocQuantities.pdb
+C:\Users\Vitatron\Documents\Visual Studio 2012\Projects\ClassLibraryAccessQuantities\obj\Debug\PiraeusBankImport.csprojResolveAssemblyReference.cache

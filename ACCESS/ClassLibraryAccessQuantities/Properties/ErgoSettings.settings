@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PiraeusBankImport.Properties" GeneratedClassName="ErgoSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ErgopartnersAcc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">38.03.00.0006</Value>
+    </Setting>
+    <Setting Name="ErgoplanningAcc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">38.03.00.0003</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
