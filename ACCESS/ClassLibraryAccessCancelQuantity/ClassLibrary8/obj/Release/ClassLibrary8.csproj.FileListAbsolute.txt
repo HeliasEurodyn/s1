@@ -85,3 +85,16 @@ E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\bin\Release\CalcelQty.d
 E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\bin\Release\CalcelQty.pdb
 E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\bin\Release\CTools.dll
 E:\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Release\ClassLibrary8.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\bin\Release\CalcelQty.dll.config
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\bin\Release\CalcelQty.dll
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\bin\Release\CalcelQty.pdb
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\bin\Release\CTools.dll
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Release\ClassLibrary8.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Release\ClassLibrary8.AddQtyCanc.resources
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Release\ClassLibrary8.Properties.Resources.resources
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Release\ClassLibrary8.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Release\CalcelQty.dll.licenses
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Release\ClassLibrary8.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Release\ClassLibrary8.csproj.CopyComplete
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Release\CalcelQty.dll
+C:\Users\Chris\Desktop\programming\hlias projects\s1\ACCESS\ClassLibraryAccessCancelQuantity\ClassLibrary8\obj\Release\CalcelQty.pdb

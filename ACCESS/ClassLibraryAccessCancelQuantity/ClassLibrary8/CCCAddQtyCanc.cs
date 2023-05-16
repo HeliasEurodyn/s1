@@ -6,7 +6,7 @@ using Softone;
 
 namespace ClassLibrary8
 {
-        [WorksOn("CCCVTAddQtyCanc")]
+        [WorksOn("PURDOC")]
     class CCCAddQtyCanc : TXCode
     {
 
@@ -20,7 +20,7 @@ namespace ClassLibrary8
             addQtyCanc.Visible = true;
 
 
-            XModule.InsertControl(addQtyCanc, "*PAGE(CustomPanel,Ακύρωση Ποσοτήτων)");
+            XModule.InsertControl(addQtyCanc, "*PAGE(Page3,Αυτόματη Εισαγωγή Παραστατικών)");
 
         }
 
